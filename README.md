@@ -18,18 +18,6 @@ Building scalable business applications like the Product Order Management System
 
 <hr>
 
-<h3>🏢 Experience</h3>
-
-<strong>Software Engineering Intern — Kuartis Technology</strong>
-
-Gained experience in autonomous systems, computer vision, ROS 2, C++, and Qt.
-
-CVAT Data Labeling • ROS 2 Architecture<br>
-Autonomous Vehicle Control Interface<br>
-Python to C++/Qt Conversion • Software Testing
-
-<hr>
-
 <h3>🛠️ Technologies and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=python,js,cpp,dart,react,flutter,html,css,postgres" />
