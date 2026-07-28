@@ -4,10 +4,9 @@
 
 ---
 
-Computer Engineering Student | Full-Stack Developer 
+Computer Engineering Student | Full-Stack Developer
 
-
-Developing web, desktop, and autonomous-system projects |
+Developing web, desktop, and autonomous-system projects
 Building practical and user-focused software solutions
 
 <img src="https://github-readme-stats.vercel.app/api?username=gksngkmn&show_icons=true&theme=tokyonight" alt="Göksun's GitHub stats" />
@@ -16,11 +15,11 @@ Building practical and user-focused software solutions
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksngkmn&layout=compact&theme=tokyonight" alt="Most used languages" />
 
-<div>
- 
 </div>
 
 ---
+
+<div align="left">
 
 ### 🚀 Current Focus
 
@@ -28,8 +27,6 @@ Full-Stack Development • Building scalable business applications
 Currently working on Product Order Management System and Financial Analysis
 
 ---
-
- 
 
 ## 🏢 Experience
 
@@ -65,16 +62,14 @@ Python to C++/Qt Conversion • Software Testing
 
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="[https://](https://www.linkedin.com/in/goksun-gokmen)[www.linkedin.com/in/goksun-gokmen](https://www.linkedin.com/in/goksun-gokmen)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR-EMAIL-ADDRESS">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<a href="mailto:[gksngkmn020@gmail.com](mailto:gksngkmn020@gmail.com)">   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://YOUR-PORTFOLIO-DOMAIN.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+<a href="https://goksungokmen.dev">   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
 </a>
 
 ---
