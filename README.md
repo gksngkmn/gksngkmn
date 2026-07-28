@@ -13,7 +13,6 @@ Developing web, desktop, and autonomous-system projects • Building practical a
 <hr>
 
 <h3>🚀 Current Focus</h3>
-<br>
 
 📦 <strong>Product Order Management System:</strong> A full-stack platform for managing customers, products, and custom manufacturing orders.<br><br>
 
