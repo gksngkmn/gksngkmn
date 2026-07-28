@@ -13,22 +13,50 @@ Developing web, desktop, and autonomous-system projects • Building practical a
 <hr>
 
 <h3>🚀 Current Focus</h3>
+<br>
 
-Building scalable business applications like the Product Order Management System and Financial Analysis applications.
+📦 <strong>Product Order Management System:</strong> A full-stack platform for managing customers, products, and custom manufacturing orders.<br><br>
+
+📊 <strong>Financial Analysis Application:</strong> A Flutter-based application for tracking financial transactions, balances, and company performance.
+
+<hr>
 
 <h3>🤝 Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/goksun-gokmen"> <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:gksngkmn020@gmail.com"> <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email" /> </a> &nbsp; <a href="https://goksungokmen.dev"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" /> </a> &nbsp; <a href="https://www.instagram.com/goksun.gokmen"> <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30" alt="Instagram" /> </a>
+<a href="https://linkedin.com/in/goksun-gokmen" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+</a>
+
+<a href="mailto:gksngkmn020@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="40" alt="Gmail" />
+</a>
+
+<a href="https://goksungokmen.dev" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" height="30" width="40" alt="Portfolio" />
+</a>
+
+<a href="https://www.instagram.com/goksun.gokmen" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+</a>
 
 <hr>
 
 <h3>🛠️ Technologies and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,react,flutter,html,css,postgres" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+</p>
 
 <hr>
 
 Thanks for visiting my profile!
 
 </div>
-
