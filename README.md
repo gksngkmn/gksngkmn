@@ -16,7 +16,7 @@ Developing web, desktop, and autonomous-system projects • Building practical a
 <h3>🚀 Current Focus</h3>
 <br>
 
-Full-Stack Development • Building scalable business applications • Currently working on Product Order Management System and Financial Analysis
+Building scalable business applications like Product Order Management System and Financial Analysis
 
 <hr>
 
