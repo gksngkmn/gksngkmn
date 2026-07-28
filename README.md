@@ -9,11 +9,7 @@ Computer Engineering Student | Full-Stack Developer
 Developing web, desktop, and autonomous-system projects
 Building practical and user-focused software solutions
 
-<img src="https://github-readme-stats.vercel.app/api?username=gksngkmn&show_icons=true&theme=tokyonight" alt="Göksun's GitHub stats" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksngkmn&layout=compact&theme=tokyonight" alt="Most used languages" />
 
 </div>
 
