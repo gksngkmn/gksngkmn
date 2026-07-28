@@ -5,7 +5,7 @@
 
 Computer Engineering Student | Full-Stack Developer</sub>
 
-Developing web, desktop, and autonomous-system projects</sub> <sub>Building practical and user-focused software solutions</sub>
+Developing web, desktop, and autonomous-system projects • Building practical and user-focused software solutions
 
 </div>
 
@@ -16,7 +16,7 @@ Developing web, desktop, and autonomous-system projects</sub> <sub>Building prac
 <h3>🚀 Current Focus</h3>
 <br>
 
-Full-Stack Development • Building scalable business applications</sub> <sub>Currently working on Product Order Management System and Financial Analysis</sub>
+Full-Stack Development • Building scalable business applications • Currently working on Product Order Management System and Financial Analysis
 
 <hr>
 
