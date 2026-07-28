@@ -16,6 +16,10 @@ Building practical and user-focused software solutions
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksngkmn&layout=compact&theme=tokyonight" alt="Most used languages" />
 
+<div>
+ 
+</div>
+
 ---
 
 ### 🚀 Current Focus
