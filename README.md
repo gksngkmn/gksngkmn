@@ -11,10 +11,12 @@ Developing web, desktop, and autonomous-system projects</sub> <sub>Building prac
 
 <div align="left">
 
+
 <h3>🚀 Current Focus</h3>
 <br>
 
 Full-Stack Development • Building scalable business applications</sub> <sub>Currently working on Product Order Management System and Financial Analysis</sub>
+
 
 <h3>🏢 Experience</h3>
 <br>
@@ -24,6 +26,7 @@ Full-Stack Development • Building scalable business applications</sub> <sub>Cu
 Gained experience in autonomous systems, computer vision, ROS 2, C++, and Qt.</sub>
 
 CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control Interface</sub> <sub>Python to C++/Qt Conversion • Software Testing</sub>
+
 
 <h3>🛠️ Technologies and Tools</h3>
 <br>
@@ -53,9 +56,10 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
 <a href="mailto:gksngkmn020@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
 </a>
-<a href="https://goksun.dev">
+<a href="https://goksungokmen.dev">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
 </a>
+
 
 Thanks for visiting my profile!</sub>
 
