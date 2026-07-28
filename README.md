@@ -18,21 +18,7 @@ Building scalable business applications like the Product Order Management System
 
 <h3>🤝 Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/goksun-gokmen">
-  <img src="https://cdn.simpleicons.org/linkedin" width="30" height="30" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gksngkmn020@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://goksungokmen.dev">
-  <img src="https://cdn.simpleicons.org/vercel" width="30" height="30" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/goksun.gokmen">
-  <img src="https://cdn.simpleicons.org/instagram" width="30" height="30" alt="Instagram" />
-</a>
+<a href="https://www.linkedin.com/in/goksun-gokmen"> <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:gksngkmn020@gmail.com"> <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email" /> </a> &nbsp; <a href="https://goksungokmen.dev"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" /> </a> &nbsp; <a href="https://www.instagram.com/goksun.gokmen"> <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30" alt="Instagram" /> </a>
 
 <hr>
 
