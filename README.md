@@ -11,12 +11,14 @@ Developing web, desktop, and autonomous-system projects</sub> <sub>Building prac
 
 <div align="left">
 
+<hr>
 
 <h3>🚀 Current Focus</h3>
 <br>
 
 Full-Stack Development • Building scalable business applications</sub> <sub>Currently working on Product Order Management System and Financial Analysis</sub>
 
+<hr>
 
 <h3>🏢 Experience</h3>
 <br>
@@ -27,6 +29,7 @@ Gained experience in autonomous systems, computer vision, ROS 2, C++, and Qt.</s
 
 CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control Interface</sub> <sub>Python to C++/Qt Conversion • Software Testing</sub>
 
+<hr>
 
 <h3>🛠️ Technologies and Tools</h3>
 <br>
@@ -47,6 +50,8 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,macos" />
 
+<hr>
+
 <h3>🤝 Connect With Me</h3>
 <br>
 
@@ -60,6 +65,7 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
 </a>
 
+<hr>
 
 Thanks for visiting my profile!</sub>
 
