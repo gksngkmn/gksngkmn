@@ -12,15 +12,15 @@ Developing web, desktop, and autonomous-system projects • Building practical a
 
 <hr>
 
-<h3>🚀 Current Focus</h3>
+<h3>🚀 Current Focus</h3><br>
 
-📦 <strong>Product Order Management System:</strong> A full-stack platform for managing customers, products, and custom manufacturing orders.<br><br>
+📦 <strong>Product Order Management System:</strong> A full-stack platform for managing customers, products, and custom manufacturing orders.
 
 📊 <strong>Financial Analysis Application:</strong> A Flutter-based application for tracking financial transactions, balances, and company performance.
 
 <hr>
 
-<h3>🤝 Connect With Me</h3>
+<h3>🤝 Connect With Me</h3><br>
 
 <a href="https://linkedin.com/in/goksun-gokmen" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
@@ -40,7 +40,7 @@ Developing web, desktop, and autonomous-system projects • Building practical a
 
 <hr>
 
-<h3>🛠️ Technologies and Tools</h3>
+<h3>🛠️ Technologies and Tools</h3><br>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
