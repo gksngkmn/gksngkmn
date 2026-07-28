@@ -34,21 +34,9 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
 <h3>🛠️ Technologies and Tools</h3>
 <br>
 
-<strong>Programming Languages</strong>
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,dart" />
+<img src="https://skillicons.dev/icons?i=js,python,cpp,dart,postgres,html,css,react,flutter" />
 
-<strong>Frontend Development</strong>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
-
-<strong>Backend and Database</strong>
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres" />
-
-<strong>Tools and Platforms</strong>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 <hr>
 
