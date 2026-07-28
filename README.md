@@ -3,7 +3,7 @@
 <h2>Hi, I'm Göksun 👋</h2>
 <br>
 
-Computer Engineering Student | Full-Stack Developer</sub>
+Computer Engineering Student | Full-Stack Developer
 
 Developing web, desktop, and autonomous-system projects • Building practical and user-focused software solutions
 
@@ -25,9 +25,9 @@ Full-Stack Development • Building scalable business applications • Currently
 
 <strong>Software Engineering Intern — Kuartis Technology</strong>
 
-Gained experience in autonomous systems, computer vision, ROS 2, C++, and Qt.</sub>
+Gained experience in autonomous systems, computer vision, ROS 2, C++, and Qt.
 
-CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control Interface</sub> <sub>Python to C++/Qt Conversion • Software Testing</sub>
+CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control Interface</sub> <sub>Python to C++/Qt Conversion • Software Testing
 
 <hr>
 
@@ -48,7 +48,7 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
 
 <strong>Tools and Platforms</strong>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,macos" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 <hr>
 
@@ -58,15 +58,16 @@ CVAT Data Labeling • ROS 2 Architecture</sub> <sub>Autonomous Vehicle Control 
 <a href="https://www.linkedin.com/in/goksun-gokmen">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
 </a>
+
 <a href="mailto:gksngkmn020@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
 </a>
+
 <a href="https://goksungokmen.dev">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
 </a>
 
 <hr>
 
-Thanks for visiting my profile!</sub>
-
+Thanks for visiting my profile!
 </div>
